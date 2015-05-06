@@ -1,6 +1,0 @@
-name: "ExamplePlugin"
-version: "0.1"
-description: "Just a Bukkit plugin example for educational purposes"
-author: "osvein"
-website: "https://github.com/Ano-Tech-Computers/ExamplePlugin"
-main: "no.atc.osvein.bukkit.example.ExamplePlugin"
